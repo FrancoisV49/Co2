@@ -1,0 +1,17 @@
+/* style.css */
+[data-testid="stSidebar"] {
+    background-color: #4A919E;  /* Remplacez #ADD8E6 par la couleur de votre choix */
+    color: #e5e7e6;  /* Couleur du texte */
+}
+
+[data-testid="stSidebar"] .css-1d391kg,
+[data-testid="stSidebar"] .css-1lcbmhc {
+    background-color: #4A919E;  /* Couleur de fond pour les conteneurs internes */
+}
+
+[data-testid="stSidebar"] .css-1d391kg,
+[data-testid="stSidebar"] .css-1lcbmhc,
+[data-testid="stSidebar"] .css-1d391kg * {
+    color: #FFBF66;  /* Couleur du texte */
+    font-weight: bold;  /* Texte en gras */
+}
